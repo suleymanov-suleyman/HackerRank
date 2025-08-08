@@ -11,7 +11,7 @@ import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
 class Result {
-  
+   
     public static long aVeryBigSum(List<Long> ar) {
         long sum = 0;
         for(long number:ar){
